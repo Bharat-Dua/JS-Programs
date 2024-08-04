@@ -1,5 +1,6 @@
- DSA PART-2
- 1. Write a function that takes in a number and returns true if the number is even and return  false if it is an odd.
+DSA PART-2
+
+1. Write a function that takes in a number and returns true if the number is even and return  false if it is an odd.
 2. Write a function that takes in a string and returns true if the string is emply.false otherwise.
 3. Write a function that takes in an array and returns true if the array is emply.false otherwise.
 4. Write a function that takes in an object and returns true if the object is emply.false otherwise.
