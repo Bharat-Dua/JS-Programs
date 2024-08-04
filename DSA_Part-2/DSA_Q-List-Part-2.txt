@@ -1,0 +1,12 @@
+ DSA PART-2
+ 1. Write a function that takes in a number and returns true if the number is even and return  false if it is an odd.
+2. Write a function that takes in a string and returns true if the string is emply.false otherwise.
+3. Write a function that takes in an array and returns true if the array is emply.false otherwise.
+4. Write a function that takes in an object and returns true if the object is emply.false otherwise.
+5. Write a function that takes in an array of numbers and returns the sum of the numbers.
+6. Write a function that takes in an array of strings and returns the length of the longest string.
+7. Write a function that takes in an array of objects and returns the number of objects that have a specific property.
+8. Write a function that takes in an array of numbers and returns a new array with each number multiplied by 2.
+9. Write a function that takes in an array of strings and returns a new array with each string captilized.
+10. Write a function that takes in an array of objects and returns a new array with only the objects that have a specific property.
+11. Write a function that takes in an array of objects and returns the number of objects
