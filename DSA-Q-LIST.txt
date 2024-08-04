@@ -1,0 +1,93 @@
+ DSA PART-1
+1. Write an if statement that checks if a number is greater than 5.
+2. Write an if statement that checks if a string is emply.
+3. Write an if-else statement that checks if a number is even or odd.
+4. Write a for loop that prints the numbers 1 to 10.
+5. Write a for loop that prints the even numbers between 1 and 10.
+6. Write a for loop that prints the odd numbers between 1 and 10.
+7. Write a function that takes in two numbers and returns their sum.
+8. Write a function that takes in a string and returns the length of the string.
+9. Write a function that takes in an array and returns the length of the array.
+10. Write a function that takes in an object and returns the number of properties in the object.
+
+ DSA PART-2
+ 1. Write a function that takes in a number and returns true if the number is even and return  false if it is an odd.
+2. Write a function that takes in a string and returns true if the string is emply.false otherwise.
+3. Write a function that takes in an array and returns true if the array is emply.false otherwise.
+4. Write a function that takes in an object and returns true if the object is emply.false otherwise.
+5. Write a function that takes in an array of numbers and returns the sum of the numbers.
+6. Write a function that takes in an array of strings and returns the length of the longest string.
+7. Write a function that takes in an array of objects and returns the number of objects that have a specific property.
+8. Write a function that takes in an array of numbers and returns a new array with each number multiplied by 2.
+9. Write a function that takes in an array of strings and returns a new array with each string captilized.
+10. Write a function that takes in an array of objects and returns a new array with only the objects that have a specific property.
+11. Write a function that takes in an array of objects and returns the number of objects
+
+ DSA Questions Part-3
+1. Write a function that takes in a number and returns the factorial of that number.
+2. Write a function that takes in a string and returns the string reversed.
+3. Write a function that takes in an array of numbers and returns the average of the numbers.
+4. Write a function that takes in an array of strings and returns a new array with each string reversed.
+5. Write a function that takes in an array of objects and returns a new array with the values of a specific property.
+6. Write a function that takes in a number and returns true if the number is prime, false otherwise.
+7. Write a function that takes in a string and returns true if the string is a palindrome, false otherwise.
+8. Write a function that takes in an array of numbers and returns the largest number in the array.
+9. Write a function that takes in an array of strings and returns the shortest string in the array.
+10. Write a function that takes in an array of objects and returns the object with the highest value of a specific property.
+
+ DSA Questions Part-4
+1 Write a function that takes in a number and returns a new array with all the prime numbers up to that number.
+2 Write a function that takes in a string and returns a new string with all the vowels removed.
+3 Write a function that takes in an array of numbers and returns a new array with all the numbers sorted in ascending order.
+4 Write a function that takes in an array of strings and returns a new array with all the strings sorted in alphabetical order.
+5 Write a function that takes in an array of objects and returns a new array with all the objects sorted by a specific property.
+6 Write a function that takes in a number and returns the Fibonacci sequence up to that number.
+7 Write a function that checks if a number is positive or negative.
+8 Write a function that checks if a string is empty or not.
+9 Write a function that returns the length of a given string.
+10 Write a function that returns the sum of two given numbers.
+11 Write a function that returns the product of two given numbers.
+12 Write a function that finds the maximum of two given numbers.
+13 Write a function that finds the minimum of two given numbers.
+14 Write a function that checks if a given number is even or odd.
+15 Write a function that checks if a given number is a multiple of 3.
+16 Write a function that checks if a given number is a multiple of 5.
+
+ DSA Questions Part-5
+1. Write a function that checks if a given number is a multiple of both 3 and 5.
+2. Write a function that checks if a given number is prime.
+3. Write a function that finds the sum of all numbers from 1 to a given number.
+4. Write a function that finds the product of all numbers from 1 to a given number.
+5. Write a function that checks if a given string, is a palindrome.
+6. Write a function that finds the reverse of a given string.
+7. Write a function that finds the factorial of a given number.
+8. Write a function that checks if a given string contains a given substring.
+9. Write a function that removes all vowels from a given string.
+10. Write a function that checks if a given string is a pangram (contains every letter of the alphabet).
+11. Write a function that removes duplicate characters from a given string.
+12. Write a function that sorts an array of numbers in ascending order.
+13. Write a function that sorts an array of numbers in descending order.
+14. Write a function that finds the maximum number in an array of numbers.
+15. Write a function that finds the minimum number in an array of numbers.
+16. Write a function that calculates the average of an array of numbers.
+17. Write a function that checks if an array of numbers is sorted in ascending order.
+18. Write a function that checks if an array of numbers is sorted in descending order.
+19. Write a function that finds the sum of all numbers in an array of numbers.
+20. Write a function that finds the product of all numbers in an array of numbers.
+
+ DSA Questions Part-6
+1. Write a function that finds the factorial of a given number using recursion.
+2. Write a function that checks if a given number is a power of two.
+3. Write a function that checks if a given number is a power of three.
+4. Write a function that checks if a given number is a power of 10.
+5. Write a function that checks if a given number, is a perfect square.
+6. Write a function that checks if a given number, is a perfect cube.
+7. Write a function that finds the square root of a given number.
+8. Write a function that finds the cube root of a given number.
+9. Write a function that converts a string to uppercase.
+10. Write a function that converts a string to lowercase.
+11. Write a function that converts a string to title case(capatilize the first letter of each character).
+12. Write a function that finds the length of the longest word in a given string.
+13.Write a function that reverses the words in a given string.
+14. Write a function that capitalizes the first letter of each word in a given string.
+15. Write a function that finds the median of an array of numbers.
